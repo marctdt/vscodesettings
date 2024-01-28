@@ -5,6 +5,18 @@ disabled:
   - id: Shan.code-settings-sync
     uuid: e337c67b-55c2-4fef-8949-eb260e7fb7fd
 enabled:
+  - id: Ionide.Ionide-fsharp
+    uuid: 0ea05e3f-5a38-419d-8305-f6c3f6d409d2
+  - id: lfs.vscode-emacs-friendly
+    uuid: 8dddff65-1f17-4f35-b6a2-a50d7829da04
+  - id: ms-dotnettools.csharp
+    uuid: d0bfc4ab-1d3a-4487-8782-7cf6027b4fff
+  - id: ms-dotnettools.dotnet-interactive-vscode
+    uuid: 2c76994b-85ab-4c26-8881-83028e2ecbf4
+  - id: ms-dotnettools.vscode-dotnet-pack
+    uuid: 7b356f90-19d6-46b4-a441-d88344b768b1
+  - id: ms-dotnettools.vscode-dotnet-runtime
+    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-toolsai.jupyter
     uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
   - id: ms-toolsai.jupyter-keymap
