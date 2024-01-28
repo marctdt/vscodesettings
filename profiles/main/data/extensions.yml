@@ -15,5 +15,7 @@ enabled:
     uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
   - id: ms-toolsai.vscode-jupyter-slideshow
     uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: snowflake.snowflake-vsc
+    uuid: 7b3811b3-b22e-4f4e-8eab-7c9774c0ad25
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
