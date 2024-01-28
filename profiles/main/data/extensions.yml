@@ -9,6 +9,8 @@ enabled:
     uuid: 0ea05e3f-5a38-419d-8305-f6c3f6d409d2
   - id: lfs.vscode-emacs-friendly
     uuid: 8dddff65-1f17-4f35-b6a2-a50d7829da04
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-dotnettools.csharp
     uuid: d0bfc4ab-1d3a-4487-8782-7cf6027b4fff
   - id: ms-dotnettools.dotnet-interactive-vscode
